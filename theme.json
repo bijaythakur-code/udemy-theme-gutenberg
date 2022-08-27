@@ -158,7 +158,14 @@
         { "slug": "large", "size": "2.25rem", "name": "Large" },
         { "slug": "x-large", "size": "3rem", "name": "Extra Large" },
         { "slug": "gigantic", "size": "3.75rem", "name": "Gigantic" }
-      ]
+      ],
+      "lineHeight": true,
+      "dropCap": true,
+      "fontWeight": true,
+      "fontStyle": true,
+      "textTransform": true,
+      "letterSpacing": true,
+      "textDecoration": true
     }
   },
   "styles": {
